@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = "artemp's blog"
+theme = 'book'
+
+#enableGitInfo = true
+
+[params]
+BookTheme = 'light'
+BookToC = true
+BookSection = 'docs'
+BookSearch = true
